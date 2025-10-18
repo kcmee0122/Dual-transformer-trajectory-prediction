@@ -30,8 +30,9 @@ You can download the inD data set from the following path: Z:\OpenDataset\inD-da
 
 1.2.1 Run Get Data Code
 * Running the following code will annotate the maneuvers in the inD dataset.
-python Annotation_inD_siteB.py
-python Annotation_inD_siteD.py
+
+> python Annotation_inD_siteB.py 
+> python Annotation_inD_siteD.py
 
 2.Train
 2.1 Split training and validation set
